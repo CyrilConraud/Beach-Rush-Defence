@@ -10,6 +10,7 @@ Beach Rush Defence/[Bb]uilds/
 Beach Rush Defence/[Ll]ogs/
 Beach Rush Defence/[Mm]emoryCaptures/
 Beach Rush Defence/Assets/TopDownEngine/
+Beach Rush Defence/Assets/Characters/2D Customizable Characters/Characters/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
