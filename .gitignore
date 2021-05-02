@@ -9,7 +9,7 @@ Beach Rush Defence/[Bb]uild/
 Beach Rush Defence/[Bb]uilds/
 Beach Rush Defence/[Ll]ogs/
 Beach Rush Defence/[Mm]emoryCaptures/
-
+Beach Rush Defence/Assets/TopDownEngine/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -43,6 +43,7 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.psd
 
 # Unity3D generated meta files
 *.pidb.meta
